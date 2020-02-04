@@ -1,7 +1,7 @@
 #!/bin/bash
 #yum install php -y
-chattr -i /usr/local/virtualizor/license.php
-rm -rf /usr/local/virtualizor/license.php 
+chattr -i /usr/local/virtualizor/license2.php
+rm -rf /usr/local/virtualizor/license2.php 
 #php_cwd=`/usr/bin/php << EOF
 php_cwd=`/usr/local/emps/bin/php << EOF 
 <?php
